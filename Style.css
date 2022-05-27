@@ -1,0 +1,31 @@
+
+body {
+    background-image: url("Max.jpg");
+    background-size: 300px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1 {background-color: #aabdca
+}
+
+h2 {
+    background-color: #ddab5d;
+}
+
+h3 {
+    background-color: rgb(80, 60, 95);
+}
+
+h4 {
+    background-color: rgb(90, 200, 120);
+}
+
+h5 {
+    background-color: hsl(210, 63%, 50%);
+}
+
+h6 {
+    background-color:hsla(210, 63%, 50%, 0.5);
+}
