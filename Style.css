@@ -7,11 +7,11 @@ body {
     background-repeat: no-repeat;
 }
 
-h1 {background-color: #aabdca
+h1 {background-color: rgb(125, 150, 220);
 }
 
 h2 {
-    background-color: #ddab5d;
+    background-color: rgb(170, 214, 145);
 }
 
 h3 {
@@ -19,7 +19,7 @@ h3 {
 }
 
 h4 {
-    background-color: rgb(90, 200, 120);
+    background-color: rgb(90, 165, 170);
 }
 
 h5 {
